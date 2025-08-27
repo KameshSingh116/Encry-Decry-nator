@@ -28,3 +28,6 @@ Bash
 
 python encryptor.py
 Follow the Prompts: Enter your password when prompted. The script will then display the generated hash and access token. To "decrypt" the password, enter the correct token.
+
+## This is note 1 for this projects , next versions will be coming....
+
